@@ -1,0 +1,8 @@
+pandas
+numpy
+prophet
+statsmodels
+matplotlib
+scikit-learn
+seaborn
+warnings
